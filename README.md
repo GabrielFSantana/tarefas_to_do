@@ -22,8 +22,8 @@ Certifique-se de ter o Python 3.x e o pip instalados no seu sistema.
 ### Passos para rodar o projeto localmente
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/GabrielFSantana/todo-simpler.git
-   cd todo-simpler
+   git clone https://github.com/GabrielFSantana/tarefas_to_do.git
+   cd tarefas_to_do
 2. Crie e ative um ambiente virtual:
    ```bash
       python -m venv venv
