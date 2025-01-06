@@ -1,4 +1,4 @@
-# Todo List Web App
+# To-do List Web App
 Este é um simples aplicativo de lista de tarefas desenvolvido com Django. O objetivo deste projeto é gerenciar tarefas de forma simples e eficaz, permitindo que os usuários visualizem, criem, editem e excluam tarefas.
 
 ## Tecnologias Utilizadas
