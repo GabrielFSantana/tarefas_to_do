@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ task.title }}</title>
+</head>
+<body>
+    <h1>{{ task.title }}</h1>
+    <p>{{ task.description }}</p>
+    <p>Prioridade: {{ task.priority }}</p>
+    <p>Data de vencimento: {{ task.due_date }}</p>
+    <p>Status: {{ task.status }}</p>
+    <a href="{% url 'task_list' %}">Voltar à lista</a>
+</body>
+</html>
