@@ -8,10 +8,15 @@ SQLite (banco de dados padrão do Django)
 
 ## Funcionalidades
 Listar tarefas: Visualize todas as tarefas cadastradas.
+
 Visualizar detalhes: Veja os detalhes de uma tarefa específica.
+
 Criar tarefas: Adicione novas tarefas à sua lista.
+
 Editar tarefas: Edite uma tarefa existente.
+
 Status das tarefas: Marque as tarefas como Pendente ou Concluída.
+
 Prioridade das tarefas: Classifique as tarefas por prioridade de 1 a 5.
 
 ## Instalação
